@@ -1,5 +1,7 @@
 package bean;
 
+import org.springframework.stereotype.Component;
+
 /**
  * @description
  * @author: yanghz
